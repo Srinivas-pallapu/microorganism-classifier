@@ -1,0 +1,10 @@
+datasets/
+review_duplicates/
+auto_clean_dataset.py
+check_dataset.py
+clean_dataset.py
+evaluate_model.py
+train_model.py
+micro_model_final.h5
+__pycache__/
+*.pyc
